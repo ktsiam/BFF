@@ -1,0 +1,8 @@
+A silly interpreter for the Brainfuck language that helped me procrastinate.
+
+Usage:
+        ./bff [program-name]
+
+Uses stdin, stdout.
+Has 30.000 bytes of memory each way.
+Hardly tested.
